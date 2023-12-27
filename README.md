@@ -26,4 +26,4 @@ Si vous souhaitez modifier des éléments dans les ressources, veuillez consulte
 - Pour acheter une licence d'armes : rendez-vous à l'armurerie, puis vous pourrez acheter un pistolet.
 
 ## DISCORD 
-[Lien](https://discord.gg/nvKs7x69wr)
+[Clique ici !](https://discord.gg/nvKs7x69wr)
